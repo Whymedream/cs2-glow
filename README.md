@@ -15,3 +15,6 @@
 1. Склонируйте репозиторий:  
    ```bash
    git clone https://github.com/yourusername/redvision.git
+2. Откройте проект в Visual Studio.
+3. Настройте оффсеты (см. раздел ниже).
+4. Скомпилируйте проект и запустите.
