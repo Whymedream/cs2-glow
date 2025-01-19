@@ -4,7 +4,7 @@
 #include <random>
 
 namespace offsets {
-    constexpr std::ptrdiff_t dwEntityList = 0x1A8C460;
+    constexpr std::ptrdiff_t dwEntityList = 0x1A176C8;
     constexpr std::ptrdiff_t m_hPlayerPawn = 0x80C;
     constexpr std::ptrdiff_t m_iTeamNum = 0x3E3;
     constexpr std::ptrdiff_t dwLocalPlayerController = 0x1A680D0;
